@@ -1,6 +1,6 @@
 # ADP Training Demo
 
-Dies ist die tolle Demo des ADP Trainings. Am Vormittag haben wir Theorie besprochen, am Nachmittag die Praxis.
+Dies ist die tolle Demo des ADP Trainings. Am Vormittag haben wir Theorie besprochen, am Nachmittag die Praxis. Schauen wir mal wie der merge läuft.
 
 # Agenda
 
