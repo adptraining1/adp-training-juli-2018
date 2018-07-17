@@ -1,3 +1,7 @@
 # ADP Training Demo
 
-Dies ist die tolle demo des ADP Trainings
+Dies ist die tolle Demo des ADP Trainings.
+
+# Agenda
+
+1. Intro
